@@ -53,4 +53,6 @@ function addListenersToButtons() {
     })
 }
 
+
 addListenersToButtons();
+loadHomePage();
